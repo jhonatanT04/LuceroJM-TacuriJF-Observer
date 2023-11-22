@@ -106,23 +106,23 @@ public class Interface extends javax.swing.JFrame {
         desktopPane.add(RButtonPers5);
         RButtonPers5.setBounds(160, 270, 98, 21);
 
-        MnsjPer1.setText("jLabel1");
+        MnsjPer1.setText("Desuscrito");
         desktopPane.add(MnsjPer1);
         MnsjPer1.setBounds(350, 60, 180, 16);
 
-        MnsjPer2.setText("jLabel1");
+        MnsjPer2.setText("Desuscrito");
         desktopPane.add(MnsjPer2);
         MnsjPer2.setBounds(350, 110, 180, 16);
 
-        MnsjPer3.setText("jLabel1");
+        MnsjPer3.setText("Desuscrito");
         desktopPane.add(MnsjPer3);
         MnsjPer3.setBounds(350, 160, 190, 16);
 
-        MnsjPer4.setText("jLabel1");
+        MnsjPer4.setText("Desuscrito");
         desktopPane.add(MnsjPer4);
         MnsjPer4.setBounds(350, 210, 200, 16);
 
-        MnsjPer5.setText("jLabel1");
+        MnsjPer5.setText("Desuscrito");
         desktopPane.add(MnsjPer5);
         MnsjPer5.setBounds(350, 260, 210, 16);
 
