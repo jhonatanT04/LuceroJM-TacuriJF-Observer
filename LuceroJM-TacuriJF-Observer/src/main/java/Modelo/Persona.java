@@ -18,8 +18,9 @@ public class Persona implements IObserver{
     
     
     @Override
-    public void actualizar(int temperatura) {
-        System.out.println(name +" la temperatura actual es de "+ temperatura);
+    public String actualizar(int temperatura) {
+        
+        return name +" la temperatura actual es de "+ temperatura;
     }
     
 }

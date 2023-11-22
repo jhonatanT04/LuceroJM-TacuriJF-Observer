@@ -9,5 +9,5 @@ package Modelo;
  * @author venot
  */
 public interface IObserver {
-    void actualizar(int temperatura );
+    String actualizar(int temperatura );
 }
